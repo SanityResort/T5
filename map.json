@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"wohnzimmer"
+                 "value":"t5_mgzAR8pOTMmd4zXOVnwv"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -83,7 +83,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"schlafzimmer"
+                 "value":"t5_ZNIKOINv3KUZ88eFRh7U"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -111,7 +111,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"arbeitszimmer"
+                 "value":"t5_iTYRxpH5T1deVgYRosKW"
                 }, 
                 {
                  "name":"jitsiTrigger",
